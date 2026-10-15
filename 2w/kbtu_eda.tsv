@@ -1,0 +1,11 @@
+entity_name	entity_type	domain	parent_entity	founded_year	ownership	approx_population	active_participants	core_focus	difficulty_level	competition_level	key_strength	key_challenge	student_satisfaction	selectivity	instruction_language	reputation	location_type	academic_orientation	mandatory
+KBTU	University	Kazakhstan	Almaty	2001.0	Public	8000.0	1200.0	Engineering, IT, Business	Medium	High	Strong math & CS focus	High workload	Good	Competitive	English/Russian	QS EECA ranked	Urban campus	STEM-oriented	Yes
+SITE	Faculty	IT & Data Science	KBTU			2200.0	300.0	Software, AI, DS	High	High	Modern curriculum	Heavy theory	Very good	High	English	Industry-aligned	Campus-based	Tech-focused	Yes
+Computer Science	Program	Bachelor	SITE			900.0	120.0	Algorithms, Systems	High	High	Strong fundamentals	Hard exams	Good	High	English	Recognized locally	On-campus	Theory-heavy	Yes
+Data Science	Program	Bachelor	SITE			650.0	90.0	ML, Statistics	High	High	Applied ML skills	Math intensity	Good	High	English	Growing demand	On-campus	Applied STEM	Yes
+Discrete Mathematics	Course	Core	Computer Science					Logic, Graphs	Very High	High	Problem-solving skills	Abstract difficulty	N/A	High	English	Core requirement	Classroom	Foundational	Yes
+Calculus I	Course	Core	Engineering & CS					Limits, Integrals	Very High	High	Analytical thinking	High failure rate	N/A	High	English	Mandatory	Classroom	Foundational	Yes
+Enactus KBTU	Student Organization	Entrepreneurship	KBTU			120.0	20.0	Startups, Social Impact	Medium	Medium	Leadership exposure	Time management	Good	Medium	English	International network	Hybrid	Business-oriented	Optional
+nFactorial School	Partner Organization	IT Education	External			300.0	40.0	Bootcamps	Medium	Medium	Practical skills	Selective entry	Good	Medium	English/Russian	Local reputation	Off-campus	Practice-driven	Optional
+Final Exams	Process	Assessment	KBTU					Written & Oral Exams	High	High	Knowledge validation	Stressful	N/A	High	English/Russian	Strict academic rules	On-campus	Academic	Yes
+Academic Mobility	Program	Exchange	International			200.0	30.0	Study abroad	Medium	High	Global exposure	GPA dependency	Very good	High	English	International recognition	Abroad	Academic growth	Optional
